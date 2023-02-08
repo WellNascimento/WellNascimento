@@ -3,12 +3,8 @@
 - I’m currently learning C#, JAVA, HTML and CSS
 - 
 - Contact me on Linkedin "Wellyton Nascimento"
-
-<a href="https://github.com/wellytonnasdev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellytonnasdev&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/wellytonnasdev/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wellytonnasdev&repo=convoychat" />
-</a>
+- 
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonnasdev&layout=compact)](https://github.com/wellytonnasdev/github-readme-stats)
