@@ -4,4 +4,4 @@
 - 
 - Contact me on Linkedin "Wellyton Nascimento"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astarothwell&layout=compact)](https://github.com/astarothwell/github-readme-stats)
