@@ -4,4 +4,6 @@
 - 
 - Contact me on Linkedin "Wellyton Nascimento"
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellytonnasdev&show_icons=true&theme=transparent)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonnasdev&layout=compact)](https://github.com/wellytonnasdev/github-readme-stats)
