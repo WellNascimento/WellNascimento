@@ -3,4 +3,4 @@
 - I’m currently learning C#, JAVA, HTML and CSS 
 - Contact me on Linkedin "Wellyton Nascimento"
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonnasdev&layout=compact)](https://github.com/wellytonnasdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellnascimento&layout=compact)](https://github.com/wellnascimento/github-readme-stats)
