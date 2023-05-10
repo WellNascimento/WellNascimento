@@ -1,6 +1,5 @@
 - Hi, I’m WellNascimento
 - I’m interested in intership or junior developer in back end or front end, future full stack
-- Contact me on Linkedin "Wellyton Nascimento"
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellnascimento&layout=compact)](https://github.com/wellnascimento/github-readme-stats)
 ##
@@ -13,6 +12,5 @@
 </div>
 ##
 <div> 
-  <a href="https://www.linkedin.com/in/wellynascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.linkedin.com/in/wellynascimento/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
