@@ -6,5 +6,5 @@
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Well_C#" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
- 
+ <img align="right" alt="Well_Java" height="150" style="border-radius:50px;" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
