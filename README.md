@@ -11,4 +11,4 @@
  <img align="center" alt="Well_html" height="30" width="40" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 ##
- <img align="center" alt="Well_stats" height="50" width="50" src="https://github-readme-stats.vercel.app/api?username=wellnascimento&theme=blue-green">
+ <img align="center" alt="Well_stats" height="200" width="100" src="https://github-readme-stats.vercel.app/api?username=wellnascimento&theme=blue-green">
