@@ -8,7 +8,8 @@ Profissional de TI com foco em análise de dados, automação de processos e cri
 
 - 📍 Guarulhos - SP
 - 🎯 Disponibilidade imediata
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
+- 🎓 Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
+- 🎓 Administração - ETEC Guarulhos
 - 🧠 Perfil organizado, analítico e orientado à entrega
 
 ## Stack principal
