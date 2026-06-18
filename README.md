@@ -1,16 +1,24 @@
-# ETL Selic e Dólar Dashboard
+# Olá, eu sou Wellyton Nascimento
 
-## Objetivo
-Pipeline ETL com dados públicos do Banco Central para análise de Selic e dólar.
+Analista de Dados Jr. | BI Jr. | Automação e Indicadores
 
-## Tecnologias
-Python, Pandas, Streamlit, Plotly
+Profissional com experiência em Python, SQL, Pandas, Power BI, Flask e automação de relatórios, com foco em transformar processos manuais em soluções mais rápidas e úteis.
 
-## Como executar
-...
+## Stack principal
+- Python
+- SQL
+- Pandas
+- Power BI
+- Flask
+- Excel VBA
+- Openpyxl
 
-## Dashboard
-...
+## Projetos em destaque
+- ETL Selic e Dólar Dashboard
+- ETL BCB Dashboard
+- Portfólio profissional
 
-## Melhorias futuras
-...
+## Contato
+- LinkedIn
+- E-mail
+- Portfólio
