@@ -48,7 +48,7 @@ Soluções para automatizar KPIs, relatórios e rotinas operacionais.
 ## Contato
 
 - 📧 E-mail: **wellyton1297@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/wellyton-nascimento](https://linkedin.com/in/wellyton-nascimento)
+- 💼 LinkedIn: [linkedin.com/in/wellynascimento](https://www.linkedin.com/in/wellynascimento/)
 - 💻 GitHub: [github.com/WellNascimento](https://github.com/WellNascimento)
 
 ***
