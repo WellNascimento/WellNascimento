@@ -10,9 +10,8 @@ Atualmente, busco oportunidades como **Analista de Dados Jr.**, **Analista de BI
 
 - 📍 Guarulhos - SP
 - 🎯 Disponibilidade imediata
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
-- 🧠 Perfil organizado, autônomo, analítico e orientado à entrega
-- 🌐 Inglês intermediário/avançado para leitura técnica
+- 🎓 Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
+- 🌐 Inglês intermediário / avançado para leitura técnica
 
 ## Stack principal
 
@@ -62,17 +61,6 @@ Projetos com foco em consolidação de dados, geração automática de KPIs e ap
 
 **Tecnologias:** SQL, Python, Excel VBA, Openpyxl, Power BI, Flask
 
-## Experiência
-
-### Analista de Prevenção de Perdas Jr. | Nagumo
-Atuação com automação de processos, consolidação de dados, criação de relatórios automáticos, dashboards e análise de indicadores operacionais.
-
-### Desenvolvedor Front-end | Yaslip
-Desenvolvimento de interfaces responsivas, manutenção de projetos web e apoio técnico em hardware e operação.
-
-### Estagiário de Desenvolvimento de Software | Seeger Engenharia e Sistemas Ltda.
-Desenvolvimento e manutenção de APIs RESTful, banco de dados relacionais e suporte a aplicações internas em ambiente corporativo.
-
 ## Certificações
 
 **Cisco Networking Academy**
@@ -83,7 +71,7 @@ Desenvolvimento e manutenção de APIs RESTful, banco de dados relacionais e sup
 ## Contato
 
 - 📧 E-mail: **wellyton1297@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/wellyton-nascimento](https://linkedin.com/in/wellyton-nascimento)
+- 💼 LinkedIn: [linkedin.com/in/wellynascimento](https://www.linkedin.com/in/wellynascimento/)
 - 💻 GitHub: [github.com/WellNascimento](https://github.com/WellNascimento)
 
 ## Objetivo neste perfil
