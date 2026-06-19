@@ -1,19 +1,19 @@
-# Olá, eu sou Wellyton Nascimento 👋
+# Hi, I'm Wellyton Nascimento 👋
 
-**Analista de Dados Jr. | BI Jr. | Automação, Indicadores e Relatórios**
+**Junior Data Analyst | Junior BI Analyst | Automation, Indicators, and Reporting**
 
-Profissional de TI com foco em análise de dados, automação de processos e criação de dashboards para apoiar a tomada de decisão.
+I’m an IT professional focused on data analysis, process automation, and dashboard creation to support decision-making.
 
-## Sobre mim
+## About Me
 
-- 🎯 Disponibilidade imediata
-- 🎓 Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
-- 🎓 Administração - ETEC Guarulhos
-- 🧠 Perfil organizado, analítico e orientado à entrega
+- 🎯 Immediately available
+- 🎓 Information Systems and Development - FATEC Guarulhos
+- 🎓 Business Administration - ETEC Guarulhos
+- 🧠 Organized, analytical, and delivery-oriented profile
 
-## Stack principal
+## Main Stack
 
-### Dados e automação
+### Data and Automation
 - Python
 - SQL
 - Pandas
@@ -21,36 +21,36 @@ Profissional de TI com foco em análise de dados, automação de processos e cri
 - Flask
 - Excel VBA
 
-### Desenvolvimento
+### Development
 - C# / .NET
 - PHP
 - HTML5
 - CSS3
 - JavaScript
 
-### Suporte e infraestrutura
+### Support and Infrastructure
 - Linux
 - Windows Server
-- Redes TCP/IP
+- TCP/IP Networks
 - Troubleshooting
 
-## Projetos em destaque
+## Featured Projects
 
-### ETL Selic e Dólar Dashboard
-Pipeline em Python com dados públicos do Banco Central, tratamento com Pandas e dashboard para análise de indicadores.
+### ETL Selic and Dollar Dashboard
+A Python ETL pipeline using public data from the Central Bank, processed with Pandas and a dashboard for indicator analysis.
 
 ### ETL BCB Dashboard
-Projeto de coleta, transformação e preparação de dados públicos para base analítica.
+A project for collecting, transforming, and preparing public data for an analytical base.
 
-### Dashboards e relatórios automatizados
-Soluções para automatizar KPIs, relatórios e rotinas operacionais.
+### Automated Dashboards and Reports
+Solutions to automate KPIs, reports, and operational routines.
 
-## Contato
+## Contact
 
-- 📧 E-mail: **wellyton1297@gmail.com**
+- 📧 Email: **wellyton1297@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/wellynascimento](https://www.linkedin.com/in/wellynascimento/)
 - 💻 GitHub: [github.com/WellNascimento](https://github.com/WellNascimento)
 
 ***
 
-Seja bem-vindo ao meu perfil.
+Welcome to my profile.
