@@ -49,7 +49,7 @@ Solutions to automate KPIs, reports, and operational routines.
 
 - 📧 Email: **wellyton1297@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/wellynascimento](https://www.linkedin.com/in/wellynascimento/)
-- 💻 GitHub: [github.com/WellNascimento](https://github.com/WellNascimento)
+- 💻 Portfolio: [portfolio/WellNascimento]([https://github.com/WellNascimento](https://portfolio-wellyton-nascimento.vercel.app))
 
 ***
 
