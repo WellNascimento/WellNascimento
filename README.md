@@ -6,7 +6,6 @@ Profissional de TI com foco em análise de dados, automação de processos e cri
 
 ## Sobre mim
 
-- 📍 Guarulhos - SP
 - 🎯 Disponibilidade imediata
 - 🎓 Análise e Desenvolvimento de Sistemas - FATEC Guarulhos
 - 🎓 Administração - ETEC Guarulhos
